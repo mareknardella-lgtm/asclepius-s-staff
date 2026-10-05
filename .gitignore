@@ -1,0 +1,29 @@
+.env
+.env.*
+!.env.example
+.freebuff/
+backend/.venv/
+backend/.pip-cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+node_modules/
+frontend/dist/
+.npm-cache/
+coverage/
+*.log
+.DS_Store
+
+# Artefatti di export dalla UI (scaricati dalla sessione di verifica)
+asclepius-*.json
+forgehacks-*.json
+
+# Local model evaluation outputs must be reviewed before publication
+reports/*.json
+
+# Local development launcher artefacts (session-local PIDs and server logs)
+dev-servers.log
+dev-servers.pids
