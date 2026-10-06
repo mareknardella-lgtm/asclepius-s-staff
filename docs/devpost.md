@@ -123,8 +123,8 @@ Only synthetic documents are accepted.
 ## Links
 
 - Repository: https://github.com/mareknardella-lgtm/asclepius-s-staff
+- Video Demo (MP4): https://github.com/mareknardella-lgtm/asclepius-s-staff/blob/main/public/video/asclepius_demo_3min.mp4
 - Live demo: _add when deployed_
-- Video: _add the 2–4 minute recording_
 
 ---
 
