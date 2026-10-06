@@ -27,3 +27,7 @@ reports/*.json
 # Local development launcher artefacts (session-local PIDs and server logs)
 dev-servers.log
 dev-servers.pids
+
+# Raw recording caches
+*.webm
+*.wav
